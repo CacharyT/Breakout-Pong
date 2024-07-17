@@ -1,1 +1,8 @@
-This is a simple Breakout/Pong clone game. It was code via the Unity game engine primarily using C#. It was a guided tutorial by SilverlyBee.
+# Breakout/Pong Clone
+It's a simple breakout/pong game clone. It features simple game mechanics consisting of 2D physics and mesh materials. It also features simple UI for user clarity.
+
+Skills Used:
+- C#
+- Unity
+- Sprites
+- Game Design
